@@ -1,7 +1,7 @@
 
 
 
-print('Beräknar differansen ac jämna/udda tal....')
+print('Beräknar differansen av jämna/udda tal....')
 
 
 
