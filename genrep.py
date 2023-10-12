@@ -17,10 +17,12 @@ for i in range(1, 2001, 2):
 for i in range(2, 2002, 2):
    jamn_lista.append(i)
 
+print(udda_lista)
+
 summa_udda = sum(udda_lista)
 summa_jamn = sum(jamn_lista)
 
 
 
 
-print(f'Differancen = {summa_jamn - summa_udda}')
+print(f'Differansen = {summa_jamn - summa_udda}')
